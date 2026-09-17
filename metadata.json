@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Saeed Elmaghlany | Dental Care",
+  "description": "Exclusive dental doctor website for Dr. Saeed Elmaghlany. Modern dentistry combining precision, technology, and natural results with online appointment booking and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

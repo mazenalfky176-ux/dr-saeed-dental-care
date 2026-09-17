@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract demo smile before treatment</title>
+  <desc id="desc">A non-photographic dental portfolio placeholder with no patient data.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#191919"/><stop offset="1" stop-color="#3a2020"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M260 390 Q600 610 940 390 Q600 500 260 390Z" fill="#f3e7d3" opacity=".92"/>
+  <path d="M330 410 Q600 540 870 410" fill="none" stroke="#b8916c" stroke-width="24" stroke-linecap="round"/>
+  <text x="600" y="690" text-anchor="middle" fill="#f3e7d3" font-family="Arial, sans-serif" font-size="44" letter-spacing="8">DEMO • BEFORE</text>
+</svg>
